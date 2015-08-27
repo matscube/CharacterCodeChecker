@@ -43,6 +43,9 @@
                             <constraint firstAttribute="centerX" secondItem="DNu-8g-pfy" secondAttribute="centerX" id="wOH-mi-wC8"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="textField" destination="DNu-8g-pfy" id="dET-zx-2S5"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
